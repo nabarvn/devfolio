@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import { MdOutlineWavingHand } from "react-icons/md";
 
 const Home = () => {
   return (
@@ -54,6 +55,12 @@ const Home = () => {
                 Software developer, web3 degen, and an amateur guitarist.
               </h1>
               <p className='text-base md:text-justify font-bold mt-5 md:mt-9'>
+                <span className='flex mb-2'>
+                  <span>Hi</span>
+                  <span className='self-center'>
+                    <MdOutlineWavingHand className='h-5 w-5 ml-1 text-yellow-600' />
+                  </span>
+                </span>
                 I'm Nabarun, a software developer and web3 autodidact based in
                 India currently. Along with taking keen interest in this space,
                 I truly believe that this is the next frontier and everyone
