@@ -80,6 +80,7 @@ const Dropdown = () => {
                       : "text-gray-700 dark:text-night-white",
                     "block px-4 py-2 text-md"
                   )}
+                  target='_blank'
                   onClick={() => setMenuOpen(!menuOpen)}
                 >
                   Blog
