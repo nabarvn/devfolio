@@ -18,7 +18,7 @@ const Projects = ({ projects }) => {
                 I have built quite a few projects trying to put a dent in the
                 Universe.
               </h1>
-              <p className='text-base md:text-lg text-justify font-semibold text-night-gray dark:text-gray-300 px-5'>
+              <p className='text-base md:text-lg text-center md:text-justify font-semibold text-night-gray dark:text-gray-300 px-5'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Asperiores architecto cum possimus repellat perspiciatis,
                 inventore earum minima assumenda quasi at deserunt doloribus

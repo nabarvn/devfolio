@@ -34,7 +34,7 @@ const About = () => {
                 An engineer who loves to code, travel, and meet buidlers across
                 the globe.
               </h1>
-              <div className='mt-9 text-lg font-semibold text-justify'>
+              <div className='mt-9 text-lg font-semibold text-center lg:text-justify'>
                 <p className='lg:hidden'>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -84,7 +84,7 @@ const About = () => {
             </div>
           </div>
           <div className='hidden lg:contents'>
-            <div className='text-lg font-semibold justify-center text-justify md:max-w-5xl pl-9 pr-9 pb-0'>
+            <div className='text-lg font-semibold justify-center lg:text-justify md:max-w-5xl pl-9 pr-9 pb-0'>
               <p className='mt-9'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
