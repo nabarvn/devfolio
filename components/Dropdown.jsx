@@ -73,7 +73,7 @@ const Dropdown = () => {
             <Menu.Item>
               {({ active }) => (
                 <Link
-                  href='https://www.blog.nabarun.xyz'
+                  href='https://www.blogdex.vercel.app'
                   className={classNames(
                     active
                       ? "bg-gray-100 dark:bg-night-gray text-gray-900 dark:text-night-teal"
