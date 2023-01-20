@@ -6,10 +6,10 @@ const Topbar = () => {
   return (
     <div className='container mx-auto px-9 mb-8'>
       <div className='flex justify-between border-b w-full py-3 px-1'>
-        <div className='self-center float-start'>
+        <div className='self-center float-start ml-3'>
           <Link href='/'>
-            <span className='cursor-pointer font-bold text-2xl dark:text-night-white'>
-              "gm"
+            <span className='cursor-pointer font-bold text-3xl dark:text-night-white'>
+              gm
             </span>
           </Link>
         </div>

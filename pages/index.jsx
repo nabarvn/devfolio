@@ -40,7 +40,7 @@ const Home = () => {
                   </span>
                 </span>
                 <span className='flex text-lg md:text-2xl italic text-cyan-700 dark:text-purple-300 mb-5'>
-                  I'm Nabarun
+                  I am Nabarun
                 </span>
                 <p className='text-night-gray dark:text-gray-300 mb-5'>
                   A software developer and web3 autodidact based in India
