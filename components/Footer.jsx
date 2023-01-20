@@ -39,7 +39,7 @@ const Footer = () => {
         <span className='cursor-default'>An </span>
         <Link
           href='https://github.com/nabarvn/devfolio'
-          className='hover:text-blue-500 dark:hover:text-blue-900'
+          className='hover:text-blue-500 dark:hover:text-indigo-400'
           target='_blank'
         >
           Open Source
