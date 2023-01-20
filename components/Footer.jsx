@@ -10,7 +10,11 @@ const Footer = () => {
           id='twitter-logo'
           className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2'
         >
-          <a href='https://www.twitter.com/nabarvn' target='_blank'>
+          <a
+            href='https://www.twitter.com/nabarvn'
+            target='_blank'
+            rel='noreferrer'
+          >
             <RxTwitterLogo className='text-twitter-blue dark:text-slate-400 h-5 w-5' />
           </a>
         </div>
@@ -18,7 +22,11 @@ const Footer = () => {
           id='github-logo'
           className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2'
         >
-          <a href='https://www.github.com/nabarvn' target='_blank'>
+          <a
+            href='https://www.github.com/nabarvn'
+            target='_blank'
+            rel='noreferrer'
+          >
             <RxGithubLogo className='text-github-black dark:text-slate-400 h-5 w-5' />
           </a>
         </div>
@@ -26,7 +34,11 @@ const Footer = () => {
           id='linkedin-logo'
           className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2'
         >
-          <a href='https://www.linkedin.com/in/nabarvn' target='_blank'>
+          <a
+            href='https://www.linkedin.com/in/nabarvn'
+            target='_blank'
+            rel='noreferrer'
+          >
             <RxLinkedinLogo className='text-linkedin-blue dark:text-slate-400 h-5 w-5' />
           </a>
         </div>

@@ -219,7 +219,7 @@ const Form = () => {
         // className='opacity-0'
         ref={reCaptchaRef}
         size='invisible'
-        sitekey='6LeUgA4kAAAAABuXpCVQ-8ix8qh7_PkcAMEnR4IM'
+        sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}
         theme={theme}
         onChange={onReCaptchaChange}
       />
