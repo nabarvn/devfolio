@@ -2,13 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&family=Poppins:wght@300;400;500;600&display=swap");
 
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  // font-family: "Montserrat", sans-serif;
+  // font-family: "Oxygen", sans-serif;
+  // font-family: "Poppins", sans-serif;
   &:before {
     content: "";
     content: "";
@@ -41,6 +44,16 @@ footer {
   body {
     @apply bg-light-gray dark:bg-night-black scrollbar-thin scrollbar-track-transparent scrollbar-thumb-blue-900 dark:scrollbar-thumb-night-gray;
   }
+}
+
+input[type="text"]:focus ~ .place-holder,
+input[type="text"]:not(:placeholder-shown) ~ .place-holder {
+  @apply text-cyan-700 dark:text-cyan-300 not-italic font-semibold bg-white dark:bg-night-gray transform -translate-y-5 -translate-x-2 scale-75;
+}
+
+textarea:focus ~ .place-holder,
+textarea:not(:placeholder-shown) ~ .place-holder {
+  @apply text-cyan-700 dark:text-cyan-300 not-italic font-semibold bg-white dark:bg-night-gray transform -translate-y-5 -translate-x-5 scale-75;
 }
 
 .text-shadow {
