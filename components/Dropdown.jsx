@@ -18,7 +18,13 @@ const Dropdown = () => {
         setMenuOpen(false);
       }
     });
-  });
+
+    if (menuOpen) {
+      document.getElementById("layout-child").style.pointerEvents = "none";
+    } else if (!menuOpen) {
+      document.getElementById("layout-child").style.pointerEvents = "auto";
+    }
+  }, [menuOpen]);
 
   return (
     <Menu

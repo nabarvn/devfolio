@@ -15,7 +15,7 @@ const Topbar = () => {
         </div>
 
         <div className='flex float-end'>
-          {/* <div className='hidden md:contents'>
+          {/* <div className='hidden md:contents lg:hidden'>
             <Link href='/about' className='self-center mx-2'>
               <span className='cursor-pointer font-bold text-lg dark:text-night-white'>
                 "about"
@@ -35,6 +35,7 @@ const Topbar = () => {
               </span>
             </Link>
           </div> */}
+
           <div className='self-center hidden md:contents'>
             <ThemeSwitcher />
           </div>
