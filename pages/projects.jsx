@@ -15,7 +15,7 @@ const Projects = ({ projects }) => {
           <div className='flex flex-col md:p-9 md:pb-0 lg:mr-9 md:max-w-lg lg:max-w-5xl'>
             <div className='cursor-default'>
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center text-blue-900 dark:text-purple-500 mb-9'>
-                I've built quite a few projects trying to put a dent in the
+                I have built quite a few projects trying to put a dent in the
                 Universe.
               </h1>
               <p className='text-base md:text-lg text-justify font-semibold text-night-gray dark:text-gray-300 px-5'>
