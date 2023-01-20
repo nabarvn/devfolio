@@ -216,7 +216,7 @@ const Form = () => {
         )}
       </div>
       <ReCAPTCHA
-        // className='opacity-0'
+        className='opacity-0'
         ref={reCaptchaRef}
         size='invisible'
         sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY}
