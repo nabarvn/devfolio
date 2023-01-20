@@ -19,7 +19,7 @@ const Email = () => {
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center cursor-default text-cyan-700 dark:text-cyan-300 mb-9'>
                 Get in Touch
               </h1>
-              <p className='text-base text-justify font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
+              <p className='text-base text-center md:text-justify font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Asperiores architecto cum possimus repellat perspiciatis,
                 inventore earum minima assumenda quasi at deserunt doloribus
