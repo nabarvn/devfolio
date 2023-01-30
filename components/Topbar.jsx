@@ -4,7 +4,7 @@ import ThemeSwitcher from "./ThemeSwitcher";
 
 const Topbar = () => {
   return (
-    <div className='container mx-auto px-9 mb-8'>
+    <div className='container mx-auto px-9 lg:px-0 xl:px-9 mb-8'>
       <div className='flex justify-between border-b w-full py-3 px-1'>
         <div className='self-center float-start md:ml-3'>
           <Link href='/'>
