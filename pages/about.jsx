@@ -28,9 +28,9 @@ const About = () => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10 lg:col-span-11'>
-          <div className='flex flex-col justify-center lg:flex-row md:max-w-5xl md:justify-between pb-9 md:p-9'>
-            <div className='flex flex-col justify-center md:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
-              <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center text-purple-700 dark:text-yellow-300'>
+          <div className='flex flex-col justify-center lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between pb-9 md:p-9'>
+            <div className='flex flex-col justify-center md:max-w-lg lg:max-w-sm xl:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
+              <h1 className='text-2xl md:text-4xl xl:text-5xl font-bold text-center text-purple-700 dark:text-yellow-300'>
                 An engineer who loves to code, travel, and meet buidlers across
                 the globe.
               </h1>
@@ -84,7 +84,7 @@ const About = () => {
             </div>
           </div>
           <div className='hidden lg:contents'>
-            <div className='text-lg font-semibold justify-center lg:text-justify md:max-w-5xl pl-9 pr-9 pb-0'>
+            <div className='text-lg font-semibold justify-center lg:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl pl-9 pr-9 pb-0'>
               <p className='mt-9'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
