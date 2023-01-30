@@ -5,7 +5,7 @@ const ErrorPage = () => {
   return (
     <div
       id='layout-child'
-      className='flex flex-col m-auto justify-center items-center error-content'
+      className='flex flex-col m-auto justify-center items-center error-content lg:px-0 xl:px-10'
     >
       <Head>
         <title>Nabarun</title>

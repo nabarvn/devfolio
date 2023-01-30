@@ -5,7 +5,7 @@ const Email = () => {
   return (
     <div
       id='layout-child'
-      className='container mx-auto mb-auto justify-center items-center min-h-screen px-10'
+      className='container mx-auto mb-auto justify-center items-center min-h-screen px-10 lg:px-0 xl:px-10'
     >
       <Head>
         <title>Nabarun</title>

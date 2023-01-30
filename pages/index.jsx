@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div
       id='layout-child'
-      className='container mx-auto mb-auto px-10 min-h-screen'
+      className='container mx-auto mb-auto px-10 lg:px-0 xl:px-10 min-h-screen'
     >
       <Head>
         <title>Nabarun</title>

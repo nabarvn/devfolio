@@ -20,7 +20,10 @@ import { Navbar } from "../components";
 
 const About = () => {
   return (
-    <div id='layout-child' className='container mx-auto mb-auto px-10'>
+    <div
+      id='layout-child'
+      className='container mx-auto mb-auto px-10 lg:px-0 xl:px-10'
+    >
       <Head>
         <title>Nabarun</title>
         <link rel='icon' href='/nabarun.png' />
