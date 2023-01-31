@@ -35,7 +35,7 @@ const Dropdown = () => {
     >
       <div onClick={() => setMenuOpen(!menuOpen)}>
         <Menu.Button className='inline-flex w-full justify-center rounded-md border border-gray-300 dark:border-night-gray bg-light-gray dark:bg-night-gray p-1 text-md font-medium text-gray-700 dark:text-night-white shadow-sm focus:outline-none'>
-          <ChevronDownIcon className='h-5 w-5' aria-hidden='true' />
+          <ChevronDownIcon className='h-4 w-4' aria-hidden='true' />
         </Menu.Button>
       </div>
 
