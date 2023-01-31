@@ -27,7 +27,7 @@ const Home = () => {
             />
 
             <div id='layout-child' className='md:max-w-4xl mt-5 md:mt-7'>
-              <h1 className='text-xl md:text-5xl lg:text-5xl xl:text-5xl font-bold cursor-default text-teal-700 dark:text-night-teal'>
+              <h1 className='text-xl md:text-5xl font-bold cursor-default text-teal-700 dark:text-night-teal'>
                 Software developer, web3 degen, and an amateur guitarist.
               </h1>
               <div className='md:text-justify font-semibold cursor-default mt-5 md:mt-9'>

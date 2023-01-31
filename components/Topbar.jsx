@@ -15,27 +15,6 @@ const Topbar = () => {
         </div>
 
         <div className='flex float-end'>
-          {/* <div className='hidden md:contents lg:hidden'>
-            <Link href='/about' className='self-center mx-2'>
-              <span className='cursor-pointer font-bold text-lg dark:text-night-white'>
-                "about"
-              </span>
-            </Link>
-            <Link
-              href='https://www.blog.nabarun.xyz'
-              className='self-center mx-2'
-            >
-              <span className='cursor-pointer font-bold text-lg dark:text-night-white'>
-                "blog"
-              </span>
-            </Link>
-            <Link href='/projects' className='self-center mx-2'>
-              <span className='cursor-pointer font-bold text-lg dark:text-night-white'>
-                "projects"
-              </span>
-            </Link>
-          </div> */}
-
           <div className='self-center hidden md:contents'>
             <ThemeSwitcher />
           </div>
