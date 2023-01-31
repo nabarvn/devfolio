@@ -26,11 +26,11 @@ const Home = () => {
               src='/nabarun.png'
             />
 
-            <div id='layout-child' className='md:max-w-4xl mt-3 md:mt-7'>
+            <div id='layout-child' className='md:max-w-4xl mt-3 md:mt-5'>
               <h1 className='text-3xl md:text-5xl font-bold cursor-default text-teal-700 dark:text-night-teal'>
                 Software developer, web3 degen, and an amateur guitarist.
               </h1>
-              <div className='md:text-justify font-semibold cursor-default mt-3 md:mt-7'>
+              <div className='md:text-justify font-semibold cursor-default mt-3 md:mt-5'>
                 <span className='flex'>
                   <span className='text-xl md:text-3xl lg:text-2xl xl:text-3xl italic text-cyan-700 dark:text-purple-300'>
                     Hi fren
@@ -39,10 +39,10 @@ const Home = () => {
                     <MdOutlineWavingHand className='h-5 w-5 md:h-7 md:w-7 ml-2 text-yellow-500 dark:text-yellow-300' />
                   </span>
                 </span>
-                <span className='flex text-xl md:text-3xl lg:text-2xl xl:text-3xl italic text-cyan-700 dark:text-purple-300 mb-3 md:mb-7'>
+                <span className='flex text-xl md:text-3xl lg:text-2xl xl:text-3xl italic text-cyan-700 dark:text-purple-300 mb-3 md:mb-5'>
                   I'm Nabarun
                 </span>
-                <p className='text-base md:text-xl lg:text-lg xl:text-xl text-night-gray dark:text-gray-300 mb-3 md:mb-7'>
+                <p className='text-base md:text-xl lg:text-lg xl:text-xl text-night-gray dark:text-gray-300 mb-3 md:mb-5'>
                   A software developer and web3 autodidact based in India
                   currently. Along with taking keen interest in this space, I
                   truly believe that this is the next frontier and everyone
