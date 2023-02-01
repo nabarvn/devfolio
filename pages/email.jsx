@@ -20,10 +20,9 @@ const Email = () => {
                 Get in Touch
               </h1>
               <p className='text-base text-center md:text-justify font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores architecto cum possimus repellat perspiciatis,
-                inventore earum minima assumenda quasi at deserunt doloribus
-                dolor ipsam, numquam veritatis.
+                I&apos;m always open to new opportunities and making new frens!
+                Please feel free to message me, even if it&apos;s just to say
+                hi; I&apos;d appreciate it a ton. Thanks for stopping by.
               </p>
               <div>
                 <Form />
