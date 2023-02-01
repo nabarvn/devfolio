@@ -8,9 +8,9 @@ const Topbar = () => {
       <div className='flex justify-between border-b w-full py-3 lg:py-2 xl:py-3 px-1'>
         <div className='self-center float-start md:ml-3'>
           <Link href='/'>
-            <span className='cursor-pointer font-bold text-xl md:text-3xl lg:text-xl xl:text-3xl dark:text-night-white'>
-              gm
-            </span>
+            <h3 className='cursor-pointer font-bold text-xl md:text-3xl lg:text-xl xl:text-3xl dark:text-night-white'>
+              "gm"
+            </h3>
           </Link>
         </div>
 
