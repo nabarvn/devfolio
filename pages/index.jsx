@@ -49,8 +49,9 @@ const Home = () => {
                   Welcome to my home on the internet. I&apos;m a self-taught
                   software developer from India who is super enthusiastic about
                   building interesting things for the digital world. IMHO,
-                  working with innovative tech is the only way through this
-                  exponential era. It&apos;s just the beginning.
+                  working with <span className='lg:hidden'>new and </span>
+                  innovative tech is the only way through this exponential era.
+                  It&apos;s just the beginning.
                   <span> 🚀</span>
                 </p>
                 <Link href='/email'>
