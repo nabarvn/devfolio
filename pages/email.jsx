@@ -20,10 +20,11 @@ const Email = () => {
                 Get in Touch
               </h1>
               <p className='text-base text-justify font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
-                Thanks for stopping by. Please feel free to message me, even if
-                it&apos;s just to say hi; I&apos;d appreciate it a ton. I&apos;m
-                always open to new opportunities and making awesome frens! Leave
-                a message and I shall get back to you ASAP. <span>🤝</span>
+                Please feel free to message me, even if it&apos;s just to say
+                hi; I&apos;d appreciate it a ton. I&apos;m always open to new
+                opportunities and making awesome frens. Leave a message and I
+                shall get back to you ASAP. Thanks a bunch for stopping by. Talk
+                soon!
               </p>
               <div>
                 <Form />
