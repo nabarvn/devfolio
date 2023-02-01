@@ -49,7 +49,7 @@ const Home = () => {
                   should be comfortable with it.
                 </p>
                 <Link href='/email'>
-                  <button className='transition duration-300 transform bg-blue-500 dark:bg-night-blue hover:bg-blue-900 dark:hover:bg-indigo-700 inline-block text-base md:text-xl lg:text-lg xl:text-xl font-medium rounded-full text-white dark:text-night-white px-3 py-1 cursor-pointer'>
+                  <button className='transition duration-300 transform bg-blue-500 dark:bg-night-blue hover:bg-blue-900 dark:hover:bg-indigo-700 inline-block text-base md:text-xl lg:text-lg xl:text-xl font-medium rounded-full text-white dark:text-night-white px-3 py-1 mt-2 cursor-pointer'>
                     Email Me!
                   </button>
                 </Link>
@@ -57,7 +57,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className='col-span-1 md:col-span-2 ld:col-span-1 hidden md:contents'>
+        <div className='col-span-1 md:col-span-2 lg:col-span-1 hidden md:contents'>
           <Navbar />
         </div>
       </div>

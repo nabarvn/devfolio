@@ -2,8 +2,8 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <div className='mt-52 mr-4 pt-0'>
-      <div className='text-lg xl:text-end font-semibold transition duration-300 mb-3'>
+    <div className='md:col-start-11 md:col-end-13 lg:col-start-12 lg:col-end-13 md:mr-4 lg:mr-1 xl:mr-4 pt-0 mt-52'>
+      <div className='text-lg md:text-end font-semibold transition duration-300 mb-3'>
         <Link
           href='/about'
           className='hover:text-blue-500 dark:hover:text-indigo-500 transition duration-300'
@@ -11,7 +11,7 @@ const Navbar = () => {
           ABOUT
         </Link>
       </div>
-      <div className='text-lg xl:text-end font-semibold transition duration-300 mb-3'>
+      <div className='text-lg md:text-end font-semibold transition duration-300 mb-3'>
         <Link
           href='https://blogdex.vercel.app/'
           className='hover:text-blue-500 dark:hover:text-indigo-500 transition duration-300'
@@ -20,7 +20,7 @@ const Navbar = () => {
           BLOG
         </Link>
       </div>
-      <div className='text-lg xl:text-end font-semibold transition duration-300 mb-3'>
+      <div className='text-lg md:text-end font-semibold transition duration-300 mb-3'>
         <Link
           href='/projects'
           className='hover:text-blue-500 dark:hover:text-indigo-500 transition duration-300'

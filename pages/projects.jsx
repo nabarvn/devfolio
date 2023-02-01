@@ -46,7 +46,7 @@ const Projects = ({ projects }) => {
           </div>
         </div>
         <div className='col-span-1 md:col-span-2 lg:col-span-1 hidden md:contents'>
-          <div className='flex flex-col'>
+          <div className='flex flex-col md:col-start-11 md:col-end-13 lg:col-start-12 lg:col-end-13'>
             <div className='md:sticky top-9'>
               <Navbar />
             </div>
