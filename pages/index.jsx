@@ -51,9 +51,10 @@ const Home = () => {
                   building interesting things for the digital world. IMHO,
                   working with new and innovative tech is the only way through
                   this exponential era. It&apos;s just the beginning.
+                  <span className='lg:hidden xl:contents'> 🚀</span>
                 </p>
                 <Link href='/email'>
-                  <button className='transition duration-300 transform bg-blue-500 dark:bg-night-blue hover:bg-blue-900 dark:hover:bg-indigo-700 inline-block text-base md:text-xl lg:text-lg xl:text-xl font-medium rounded-full text-white dark:text-night-white px-3 py-1 mt-1 cursor-pointer'>
+                  <button className='transition duration-300 transform bg-blue-500 dark:bg-night-blue hover:bg-blue-900 dark:hover:bg-indigo-700 inline-block text-base md:text-xl lg:text-lg xl:text-xl font-medium rounded-full text-white dark:text-night-white px-3 py-1 mt-2 lg:mt-1 xl:mt-2 cursor-pointer'>
                     Email Me!
                   </button>
                 </Link>
