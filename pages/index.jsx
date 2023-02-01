@@ -33,7 +33,7 @@ const Home = () => {
               <h1 className='text-3xl md:text-5xl font-bold cursor-default text-teal-700 dark:text-night-teal'>
                 Software developer, web3 degen, and an amateur guitarist.
               </h1>
-              <div className='md:text-justify font-semibold cursor-default mt-3 md:mt-5'>
+              <div className='text-justify font-semibold cursor-default mt-3 md:mt-5'>
                 <span className='flex'>
                   <span className='text-xl md:text-3xl lg:text-2xl xl:text-3xl italic text-cyan-700 dark:text-purple-300'>
                     Hi fren!
