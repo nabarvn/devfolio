@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <div className='md:col-start-11 md:col-end-13 lg:col-start-12 lg:col-end-13 md:mr-4 lg:mr-1 xl:mr-4 pt-0 mt-52'>
+    <div className='md:col-start-11 md:col-end-13 lg:col-start-12 lg:col-end-13 md:mr-4 lg:mr-0 xl:mr-4 pt-0 mt-52'>
       <div className='text-lg md:text-end font-semibold transition duration-300 mb-3'>
         <Link
           href='/about'
