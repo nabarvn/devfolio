@@ -15,8 +15,8 @@ const Home = () => {
         <link rel='icon' href='/nabarun.png' />
       </Head>
       <div className='grid grid-cols-1 md:grid-cols-12'>
-        <div className='col-span-1 md:col-span-10 lg:col-span-11'>
-          <div className='flex flex-col lg:mr-5 xl:mr-0 md:px-9 lg:px-5 xl:px-9'>
+        <div className='col-span-1 md:col-span-10'>
+          <div className='flex flex-col md:px-9 lg:px-5 xl:px-9'>
             <Image
               alt='Nabarun.eth'
               unoptimized
@@ -60,7 +60,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className='col-span-1 md:col-span-2 lg:col-span-1 hidden md:contents'>
+        <div className='col-span-1 md:col-span-2 hidden md:contents'>
           <Navbar />
         </div>
       </div>

@@ -14,8 +14,8 @@ const Projects = ({ projects }) => {
       </Head>
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
-        <div className='col-span-1 md:col-span-10 lg:col-span-11'>
-          <div className='flex flex-col md:p-9 md:pb-0 lg:mr-9 md:max-w-lg lg:max-w-5xl'>
+        <div className='col-span-1 md:col-span-10'>
+          <div className='flex flex-col md:p-9 md:pb-0 md:max-w-lg lg:max-w-5xl'>
             <div className='cursor-default'>
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center text-blue-900 dark:text-purple-500 mb-9'>
                 I have built quite a few projects trying to put a dent in the
@@ -45,8 +45,8 @@ const Projects = ({ projects }) => {
             </div>
           </div>
         </div>
-        <div className='col-span-1 md:col-span-2 lg:col-span-1 hidden md:contents'>
-          <div className='flex flex-col md:col-start-11 md:col-end-13 lg:col-start-12 lg:col-end-13'>
+        <div className='col-span-1 md:col-span-2 hidden md:contents'>
+          <div className='flex flex-col md:col-start-11 md:col-end-13'>
             <div className='md:sticky top-9'>
               <Navbar />
             </div>
