@@ -9,7 +9,7 @@ const Topbar = () => {
         <div className='self-center float-start md:ml-3'>
           <Link href='/'>
             <h3 className='cursor-pointer font-bold text-xl md:text-3xl lg:text-xl xl:text-3xl dark:text-night-white'>
-              "gm"
+              &quot;gm&quot;
             </h3>
           </Link>
         </div>
