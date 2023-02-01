@@ -14,7 +14,7 @@ const Email = () => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-11'>
-          <div className='flex flex-col md:p-9 md:pb-0'>
+          <div className='flex flex-col md:p-9 lg:pt-0 xl:pt-9 md:pb-0'>
             <div className='md:px-5 md:max-w-lg lg:max-w-4xl'>
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center cursor-default text-cyan-700 dark:text-cyan-300 mb-9'>
                 Get in Touch
