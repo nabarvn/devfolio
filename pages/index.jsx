@@ -16,7 +16,7 @@ const Home = () => {
       </Head>
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10 lg:col-span-11'>
-          <div className='flex flex-col md:px-9 lg:px-2 xl:px-9'>
+          <div className='flex flex-col lg:mr-5 xl:mr-0 md:px-9 lg:px-5 xl:px-9'>
             <Image
               alt='Nabarun.eth'
               unoptimized
@@ -26,7 +26,10 @@ const Home = () => {
               src='/nabarun.png'
             />
 
-            <div id='layout-child' className='md:max-w-4xl mt-3 md:mt-5'>
+            <div
+              id='layout-child'
+              className='md:max-w-4xl lg:max-w-3xl xl:max-w-4xl mt-3 md:mt-5'
+            >
               <h1 className='text-3xl md:text-5xl font-bold cursor-default text-teal-700 dark:text-night-teal'>
                 Software developer, web3 degen, and an amateur guitarist.
               </h1>
