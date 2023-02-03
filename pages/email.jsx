@@ -19,7 +19,7 @@ const Email = () => {
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center cursor-default text-cyan-700 dark:text-cyan-300 mb-9'>
                 Get in Touch
               </h1>
-              <p className='text-base text-justify font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
+              <p className='text-base text-center font-semibold cursor-default text-night-gray dark:text-gray-300 mb-9'>
                 Please feel free to contact me, even if it&apos;s just to say
                 hi. I&apos;m always open to new opportunities and experiences.
                 Leave a message and I shall get back to you ASAP. Thanks a bunch
