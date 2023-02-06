@@ -39,36 +39,16 @@ const About = () => {
               </h1>
               <div className='mt-9 text-lg font-semibold text-center'>
                 <p className='lg:hidden'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Duis ultricies lacus sed turpis. Egestas purus viverra
-                  accumsan in nisl. Accumsan lacus vel facilisis volutpat est
-                  velit egestas. Risus nullam eget felis eget nunc. Varius sit
-                  amet mattis vulputate enim. Commodo ullamcorper a lacus
-                  vestibulum sed arcu. Volutpat lacus laoreet non curabitur
-                  gravida arcu ac. Volutpat ac tincidunt vitae semper. Aliquet
-                  porttitor lacus luctus accumsan tortor posuere ac ut. Nibh
-                  tellus molestie nunc non blandit massa enim nec. Aliquet
-                  porttitor lacus luctus accumsan tortor. Ridiculus mus mauris
-                  vitae ultricies leo integer malesuada nunc vel. Quis enim
-                  lobortis scelerisque fermentum dui faucibus. Nibh nisl
-                  condimentum id venenatis a condimentum. Imperdiet sed euismod
-                  nisi porta lorem mollis. Aliquam ultrices sagittis orci a
-                  scelerisque. Vestibulum rhoncus est pellentesque elit
-                  ullamcorper dignissim cras tincidunt lobortis. Duis ut diam
-                  quam nulla porttitor massa id neque aliquam. Vitae ultricies
-                  leo integer malesuada. Enim sit amet venenatis urna cursus
-                  eget nunc. Dui accumsan sit amet nulla facilisi. Bibendum ut
-                  tristique et egestas quis. Dolor sit amet consectetur
-                  adipiscing elit ut. Nibh ipsum consequat nisl vel pretium
-                  lectus quam. Consequat semper viverra nam libero justo. Ut
-                  tortor pretium viverra suspendisse potenti. Fusce ut placerat
-                  orci nulla pellentesque dignissim.
-                </p>
-                <p className='hidden lg:contents'>
                   Hello there! My name is Nabarun (call me Nick if you want). I
                   am a Software Developer from the most colorful country in the
                   whole wide world, India.
+                </p>
+                <p className='hidden lg:contents'>
+                  Hello there! My name is Nabarun (call me Nick if you&apos;d
+                  like). I&apos;m a Software Developer, currently based in
+                  India. The notion of being able to translate ideas into
+                  something really meaningful and significant intrigues me the
+                  most about coding.
                 </p>
               </div>
             </div>
