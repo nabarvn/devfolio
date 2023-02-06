@@ -47,8 +47,8 @@ const About = () => {
                   Hello there! My name is Nabarun (call me Nick if you&apos;d
                   like). I&apos;m a Software Developer, currently based in
                   India. The notion of being able to translate ideas into
-                  something really meaningful and significant intrigues me the
-                  most about coding.
+                  something really meaningful intrigues me the most about
+                  coding.
                 </p>
               </div>
             </div>
