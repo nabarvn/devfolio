@@ -66,9 +66,9 @@ const About = () => {
                   orci nulla pellentesque dignissim.
                 </p>
                 <p className='hidden lg:contents'>
-                  Hello there! My name is Nabarun &lpar;call me Nick if you
-                  want&rpar;. I am a Software Developer from the most colorful
-                  country in the whole wide world, India.
+                  Hello there! My name is Nabarun (call me Nick if you want). I
+                  am a Software Developer from the most colorful country in the
+                  whole wide world, India.
                 </p>
               </div>
             </div>
