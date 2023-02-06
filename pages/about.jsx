@@ -66,11 +66,9 @@ const About = () => {
                   orci nulla pellentesque dignissim.
                 </p>
                 <p className='hidden lg:contents'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Duis ultricies lacus sed turpis. Egestas purus viverra
-                  accumsan in nisl. Accumsan lacus vel facilisis volutpat est
-                  velit egestas.
+                  Hello there! My name is Nabarun &lpar;call me Nick if you
+                  want&rpar;. I am a Software Developer from the most colorful
+                  country in the whole wide world, India.
                 </p>
               </div>
             </div>
