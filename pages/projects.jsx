@@ -15,7 +15,7 @@ const Projects = ({ projects }) => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10'>
-          <div className='flex flex-col pt-0 lg:pt-4 xl:pt-9 pb-0 md:px-4 lg:px-5 xl:px-9 md:max-w-lg lg:max-w-5xl'>
+          <div className='flex flex-col pt-4 xl:pt-5 pb-0 md:px-4 lg:px-5 xl:px-9 md:max-w-lg lg:max-w-5xl'>
             <div className='cursor-default'>
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center text-blue-900 dark:text-purple-500 mb-9'>
                 I have built quite a few projects trying to put a dent in the

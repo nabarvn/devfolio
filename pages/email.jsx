@@ -13,9 +13,9 @@ const Email = () => {
       </Head>
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
-        <div className='col-span-1 md:col-span-11'>
-          <div className='flex flex-col md:p-9 lg:pt-0 xl:pt-9 md:pb-0'>
-            <div className='md:px-5 md:max-w-lg lg:max-w-4xl'>
+        <div className='col-span-1 md:col-span-10'>
+          <div className='flex flex-col pt-4 xl:pt-5 md:px-4 lg:px-5 xl:px-9'>
+            <div className='md:max-w-lg lg:max-w-4xl'>
               <h1 className='text-2xl md:text-4xl lg:text-5xl font-bold text-center cursor-default text-cyan-700 dark:text-cyan-300 mb-9'>
                 Get in Touch
               </h1>
@@ -31,8 +31,8 @@ const Email = () => {
             </div>
           </div>
         </div>
-        <div className='col-span-1 md:col-span-1 ml-auto hidden md:contents'>
-          <div className='flex flex-col items-end'>
+        <div className='col-span-1 md:col-span-2 ml-auto hidden md:contents'>
+          <div className='flex flex-col md:col-start-11 md:col-end-13'>
             <div className='top-9'>
               <Navbar />
             </div>
