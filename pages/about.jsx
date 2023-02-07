@@ -31,7 +31,7 @@ const About = () => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10'>
-          <div className='flex flex-col justify-center lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between py-4 xl:py-9 md:px-4 lg:px-5 xl:px-9'>
+          <div className='flex flex-col justify-center lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between pt-4 xl:pt-9 md:px-4 lg:px-5 xl:px-9'>
             <div className='flex flex-col justify-center md:max-w-lg lg:max-w-sm xl:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
               <h1 className='text-2xl md:text-4xl xl:text-5xl font-bold text-center text-purple-700 dark:text-yellow-300'>
                 An engineer who loves to code, travel, and meet buidlers across
