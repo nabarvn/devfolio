@@ -39,18 +39,18 @@ const About = () => {
               </h1>
               <div className='mt-9 text-lg font-semibold text-center'>
                 <p className='lg:hidden'>
-                  Hello there! My name is Nabarun (call me Nick if you&apos;d
-                  like) and I&apos;m a Software Developer currently based in
-                  India. I love being an autodidact as it feeds my curious mind.
-                  I&apos;m Dev# 369 at Developer DAO and also a member of
+                  Howdy! My name is Nabarun (call me Nick if you&apos;d like)
+                  and I&apos;m a Software Developer currently based in India. I
+                  love being an autodidact as it enables my curious mind to
+                  thrive. I&apos;m Dev# 369 at Developer DAO and a member of
                   DAOpunks Club.
                 </p>
                 <p className='hidden lg:contents'>
                   Howdy! My name is Nabarun (call me Nick if you&apos;d like)
                   and I&apos;m a Software Developer currently based in India. I
                   love being an autodidact as it enables my curious mind to
-                  thrive. I&apos;m Dev# 369 at Developer DAO and also a member
-                  of DAOpunks Club.
+                  thrive. I&apos;m Dev# 369 at Developer DAO and a member of
+                  DAOpunks Club.
                 </p>
               </div>
             </div>
