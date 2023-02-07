@@ -16,7 +16,7 @@ const Home = () => {
       </Head>
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10'>
-          <div className='flex flex-col md:px-9 lg:px-5 xl:px-9'>
+          <div className='flex flex-col md:px-4 lg:px-5 xl:px-9 xl:py-9'>
             <Image
               alt='Nabarun.eth'
               unoptimized
