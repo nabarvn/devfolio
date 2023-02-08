@@ -22,13 +22,12 @@ const Projects = ({ projects }) => {
                 Universe.
               </h1>
               <p className='text-base md:text-lg text-center font-semibold text-night-gray dark:text-gray-300 px-5'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores architecto cum possimus repellat perspiciatis,
-                inventore earum minima assumenda quasi at deserunt doloribus
-                dolor ipsam, numquam veritatis. Iste maxime doloremque nihil.
-                Asperiores architecto cum possimus repellat perspiciatis,
-                inventore earum minima assumenda quasi at deserunt doloribus
-                dolor ipsam, numquam veritatis.
+                Education itself is not enough if one wants to unlock their
+                fullest potential while learning something new. Implementation
+                of knowledge is what makes us who we want to become, slowly but
+                steadily. And consistency is the key to all of it! Well, these
+                are some noteworthy builds developed by me till date, as I
+                progressed during my journey in Software Engineering.
               </p>
             </div>
 
