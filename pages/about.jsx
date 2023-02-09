@@ -74,16 +74,16 @@ const About = () => {
                 &quot;I aspire to become a Scientist&quot;. In retrospect, I
                 think I just wanted to be like someone who&apos;d contribute
                 significantly to the growth of science & technology. But while
-                growing up, my pool of interests began to take a better shape. I
-                discovered the inner engineer between building small
-                toys/objects and dismantling my toy cars in order to find out
-                what&apos;s really going on under the hood. And it was precisely
-                this memory that helped me understand certain things when the
-                right time arrived. After putting a lot of thought into it, as
-                you can probably tell, I chose to pursue engineering. Partly
-                because I loved breaking and making things, and partly because
-                someone had told me that engineers don&apos;t have to study as
-                much (guilty!).
+                growing up, my pool of interests began to take a better shape.
+                Well, I discovered the inner engineer between building small
+                toys/objects and dismantling my toy cars in order to figure out
+                what&apos;s under the hood. And it was precisely this memory
+                that helped me understand certain things when the right time
+                arrived. After putting a lot of thought into it, as you can
+                probably tell, I chose to pursue engineering. Partly because I
+                loved breaking and making things, and partly because someone had
+                told me that engineers don&apos;t have to study as much
+                (guilty!).
               </p>
               <p className='mt-9'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
