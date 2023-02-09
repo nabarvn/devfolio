@@ -79,7 +79,7 @@ const About = () => {
                 toys/objects and dismantling my toy cars in order to figure out
                 what&apos;s under the hood. And it was precisely this memory
                 that helped me understand certain things when the right time
-                arrived. After putting a lot of thought into it, as you can
+                arrived. When it came to selecting a career path, as you can
                 probably tell, I chose to pursue engineering. Partly because I
                 loved breaking and making things, and partly because someone had
                 told me that engineers don&apos;t have to study as much
