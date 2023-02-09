@@ -78,7 +78,7 @@ const About = () => {
                 Soon I discover the inner engineer between building small
                 toys/objects and dismantling my toy cars in order to figure out
                 what&apos;s under the hood. And it was precisely this memory
-                that helped me understand certain things when the right time
+                that helped me understand certain things just as the right time
                 arrived. When it came to selecting a career path, as you can
                 probably tell, I chose to pursue engineering. Partly because I
                 loved breaking and making things, and partly because someone had
