@@ -74,8 +74,8 @@ const About = () => {
                 &quot;I aspire to become a Scientist&quot;. In retrospect, I
                 think I just wanted to be like someone who&apos;d contribute
                 significantly to the growth of science & technology. But while
-                growing up, my pool of interests began to take a better shape.
-                Soon I discovered the inner engineer between building small
+                growing up, my pool of interests began to take a better shape. I
+                discovered the inner engineer between building small
                 toys/objects and dismantling my toy cars in order to find out
                 what&apos;s really going on under the hood. And it was precisely
                 this memory that helped me understand certain things when the
