@@ -78,10 +78,10 @@ const About = () => {
                 and soon I discovered the inner engineer while dismantling my
                 favorite toy car in order to find out what&apos;s really going
                 on under the hood. This lead me to an intense dilemma phase but
-                as you can tell, ultimately I chose to pursue engineering.
-                Partly because I loved breaking and making things, and partly
-                because someone had told me that engineers don&apos;t have to
-                study much (guilty!).
+                after putting a lot of thought into it, as you can probably
+                tell, I chose to pursue engineering. Partly because I loved
+                breaking and making things, and partly because someone had told
+                me that engineers don&apos;t have to study as much (guilty!).
               </p>
               <p className='mt-9'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
