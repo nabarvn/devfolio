@@ -31,13 +31,13 @@ const About = () => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10'>
-          <div className='flex flex-col justify-center lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between pt-4 xl:pt-5 md:px-4 lg:px-5 xl:px-9'>
-            <div className='flex flex-col justify-center md:max-w-lg lg:max-w-sm xl:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
+          <div className='flex flex-col lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between pt-4 xl:pt-5 md:px-4 lg:px-5 xl:px-9'>
+            <div className='flex flex-col mx-auto md:max-w-lg lg:max-w-sm xl:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
               <h1 className='text-2xl md:text-4xl xl:text-5xl font-bold text-center text-purple-700 dark:text-yellow-300'>
                 An engineer who loves to code, travel, and meet buidlers across
                 the globe.
               </h1>
-              <div className='mt-9 text-lg font-semibold text-center'>
+              <div className='mt-9 text-base md:text-lg font-semibold text-center'>
                 <p className='lg:hidden'>
                   Howdy! My name is Nabarun (call me Nick if you&apos;d like)
                   and I&apos;m a Software Developer currently based in India. I
@@ -66,24 +66,22 @@ const About = () => {
               />
             </div>
           </div>
-          <div className='hidden lg:contents'>
-            <div className='text-lg font-semibold justify-center lg:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0'>
+          <div className=''>
+            <div className='text-base md:text-lg font-semibold justify-center text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0'>
               <p className='mt-9'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
-                ultricies lacus sed turpis. Egestas purus viverra accumsan in
-                nisl. Accumsan lacus vel facilisis volutpat est velit egestas.
-                Risus nullam eget felis eget nunc. Varius sit amet mattis
-                vulputate enim. Commodo ullamcorper a lacus vestibulum sed arcu.
-                Volutpat lacus laoreet non curabitur gravida arcu ac. Volutpat
-                ac tincidunt vitae semper. Aliquet porttitor lacus luctus
-                accumsan tortor posuere ac ut. Nibh tellus molestie nunc non
-                blandit massa enim nec. Aliquet porttitor lacus luctus accumsan
-                tortor. Ridiculus mus mauris vitae ultricies leo integer
-                malesuada nunc vel. Quis enim lobortis scelerisque fermentum dui
-                faucibus. Nibh nisl condimentum id venenatis a condimentum.
-                Imperdiet sed euismod nisi porta lorem mollis. Aliquam ultrices
-                sagittis orci a scelerisque.
+                During my early childhood days, whenever I was asked about my
+                aim in life, for some reason my consistent response used to be
+                &quot;I aspire to become a Scientist&quot;. In retrospect, I
+                think I just wanted to be like someone who&apos;d contribute
+                significantly to the growth of science & technology. But while
+                growing up, my pool of interests began to take a better shape
+                and soon I discovered the inner engineer while dismantling my
+                favorite toy car in order to find out what&apos;s really going
+                on under the hood. This lead me to an intense dilemma phase but
+                as you can tell, ultimately I chose to pursue engineering.
+                Partly because I loved breaking and making things, and partly
+                because someone had told me that engineers don&apos;t have to
+                study much (guilty!).
               </p>
               <p className='mt-9'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
