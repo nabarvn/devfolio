@@ -75,7 +75,7 @@ const About = () => {
                 think I just wanted to be like someone who&apos;d contribute
                 significantly to the growth of science & technology. But while
                 growing up, my pool of interests began to take a better shape.
-                Well, I discovered the inner engineer between building small
+                Soon I discover the inner engineer between building small
                 toys/objects and dismantling my toy cars in order to figure out
                 what&apos;s under the hood. And it was precisely this memory
                 that helped me understand certain things when the right time
