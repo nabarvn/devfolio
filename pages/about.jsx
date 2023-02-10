@@ -85,23 +85,23 @@ const About = () => {
                 don&apos;t have to study as much (not true!).
               </p>
               <p className='mt-9'>
-                I studied Electrical Engineering during my bachelor&apos;s
-                thinking that electricity in today&apos;s world is the basis for
-                almost every technology we are familiar with; so why not learn
-                more about it! While grinding in college I managed to work as an
-                intern for multiple companies and four years through the process
-                I learned that I was more into software than hardware, which was
-                a fair enough transition for me given how fast the tech industry
-                was evolving. After securing a decent score, I ended up getting
-                a great job at an international IT Giant. I learned a ton during
-                the Initial Learning Program and also enjoyed my time there as a
-                corporate engineer. However, as fate would have it, I started
-                feeling that something was missing (and many things in between).
-                Dunno what to call it exactly, maybe a quarter-life crisis...
-                but I genuinely felt the need to take a step back in order to
-                figure things out for myself. Yes it wasn&apos;t easy but
-                ultimately I decided to take a career break. It gave me the much
-                needed space and then my life changed forever!
+                I studied Electrical Engineering in my bachelor&apos;s thinking
+                that electricity is the basis for almost every technology we are
+                familiar with; so why not learn more about it! While grinding in
+                college I managed to work as an intern for multiple firms and 4
+                years through the process I learned that software was my thing,
+                not hardware; which was a fair enough transition for me given
+                how fast the tech industry was evolving. After securing a decent
+                score, I ended up getting a great job at an international IT
+                Giant. Learned a ton during the Initial Learning Program and
+                also enjoyed my time there as a corporate engineer. However, as
+                fate would have it, I started feeling that something was missing
+                (and many things in between). Dunno what to call it exactly,
+                maybe a quarter-life crisis... but I genuinely felt the need to
+                take a step back in order to figure things out for myself. Yes
+                it wasn&apos;t easy but ultimately I decided to take a career
+                break. It gave me the much needed space and then my life changed
+                forever!
               </p>
             </div>
           </div>
