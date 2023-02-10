@@ -54,7 +54,7 @@ const About = () => {
                 </p>
               </div>
             </div>
-            <div className='flex justify-center order-1 lg:order-2 lg:mr-9'>
+            <div className='flex justify-center order-1 lg:order-2 lg:mr-9 lg:mt-5 xl:mt-3'>
               <Image
                 alt='gmOfficer.eth'
                 priority
