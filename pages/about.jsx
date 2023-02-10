@@ -98,11 +98,11 @@ const About = () => {
                 learned a ton during the Initial Learning Program and also
                 enjoyed my time there as a corporate engineer. However, as fate
                 would have it, I started feeling that something was missing (and
-                many things in between)... Dunno what to call it exactly, maybe
-                quarter-life crisis, but I felt the need to take a step back in
-                order to figure things out for myself. Yes it wasn&apos;t easy
-                but ultimately I decided to take a career break. It gave me the
-                much needed space. Then my life changed forever!
+                many things in between). Dunno what to call it exactly, maybe
+                quarter-life crisis... but I felt the need to take a step back
+                in order to figure things out for myself. Yes it wasn&apos;t
+                easy but ultimately I decided to take a career break. It gave me
+                the much needed space. Then my life changed forever!
               </p>
             </div>
           </div>
