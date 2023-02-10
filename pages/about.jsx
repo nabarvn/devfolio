@@ -73,17 +73,16 @@ const About = () => {
                 aim in life, for some reason my consistent response used to be
                 &quot;I aspire to become a Scientist&quot;. In retrospect, I
                 think I just wanted to be like someone who&apos;d contribute
-                significantly to the growth of science & technology. But while
+                significantly to the growth of science & technology. While
                 growing up, my pool of interests began to take a better shape.
-                Soon I discover the inner engineer between building small
-                toys/objects and dismantling my toy cars in order to figure out
-                what&apos;s under the hood. And it was precisely this memory
-                that really helped me understand certain things at the right
-                time. When it came to selecting a career path, as you can
-                probably tell, I chose to pursue engineering. Partly because I
-                loved breaking and making things, and partly because someone had
-                told me that engineers don&apos;t have to study as much (not
-                true!).
+                Eventually, I discovered the inner engineer between building
+                small objects and dismantling my toy cars in order to find out
+                what was under the hood. And it was precisely this memory that
+                really helped me understand certain things when it came to
+                selecting a career path. As you can probably tell, I chose to
+                pursue engineering. Partly because I loved breaking and making
+                things, and partly because someone had told me that engineers
+                don&apos;t have to study as much (not true!).
               </p>
               <p className='mt-9'>
                 I studied Electrical Engineering during my bachelor&apos;s
@@ -92,17 +91,17 @@ const About = () => {
                 more about it! While grinding in college I managed to work as an
                 intern for multiple companies and four years through the process
                 I learned that I was more into software than hardware, which was
-                a fair enough transition for me given how fast the tech world
-                was evolving. After securing a decent enough score, I ended up
-                grabbing a really nice job at an international IT Giant. I
-                learned a ton during the Initial Learning Program and also
-                enjoyed my time there as a corporate engineer. However, as fate
-                would have it, I started feeling that something was missing (and
-                many things in between). Dunno what to call it exactly, maybe
-                quarter-life crisis... but I felt the need to take a step back
-                in order to figure things out for myself. Yes it wasn&apos;t
-                easy but ultimately I decided to take a career break. It gave me
-                the much needed space. Then my life changed forever!
+                a fair enough transition for me given how fast the tech industry
+                was evolving. After securing a decent score, I ended up getting
+                a great job at an international IT Giant. I learned a ton during
+                the Initial Learning Program and also enjoyed my time there as a
+                corporate engineer. However, as fate would have it, I started
+                feeling that something was missing (and many things in between).
+                Dunno what to call it exactly, maybe a quarter-life crisis...
+                but I genuinely felt the need to take a step back in order to
+                figure things out for myself. Yes it wasn&apos;t easy but
+                ultimately I decided to take a career break. It gave me the much
+                needed space and then my life changed forever!
               </p>
             </div>
           </div>
