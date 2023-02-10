@@ -74,15 +74,15 @@ const About = () => {
                 &quot;I aspire to become a Scientist&quot;. In retrospect, I
                 think I just wanted to be like someone who&apos;d contribute
                 significantly to the growth of science & technology. While
-                growing up, my pool of interests began to take a better shape.
-                Eventually, I discovered the inner engineer between building
-                small objects and dismantling my toy cars in order to find out
-                what was under the hood. And it was precisely this memory that
-                really helped me understand certain things when it came to
-                selecting a career path. As you can probably tell, I chose to
-                pursue engineering. Partly because I loved breaking and making
-                things, and partly because someone had told me that engineers
-                don&apos;t have to study as much (not true!).
+                growing up, my pool of interests had begun to take a better
+                shape. Eventually, I discovered the inner engineer between
+                building small objects and dismantling my toy cars in order to
+                find out what was under the hood. And it was precisely this
+                memory that really helped me understand certain things when it
+                came to selecting a career path. As you can probably tell, I
+                chose to pursue engineering. Partly because I loved breaking and
+                making things, and partly because someone had told me that
+                engineers don&apos;t have to study as much (not true!).
               </p>
               <p className='mt-9'>
                 I studied Electrical Engineering in my bachelor&apos;s thinking
@@ -100,8 +100,7 @@ const About = () => {
                 maybe a quarter-life crisis... but I genuinely felt the need to
                 take a step back in order to figure things out for myself. Yes
                 it wasn&apos;t easy but ultimately I decided to take a career
-                break. It gave me the much needed space and then my life changed
-                forever!
+                break. Then my life changed forever!
               </p>
             </div>
           </div>
