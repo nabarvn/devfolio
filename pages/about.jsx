@@ -82,7 +82,7 @@ const About = () => {
                 came to selecting a career path. As you can probably tell, I
                 chose to pursue engineering. Partly because I loved breaking and
                 making things, and partly because someone had told me that
-                engineers don&apos;t have to study as much (not true!).
+                engineers don&apos;t have to study as much (not true).
               </p>
               <p className='mt-9'>
                 I studied Electrical Engineering in my bachelor&apos;s thinking
