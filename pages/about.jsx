@@ -100,7 +100,7 @@ const About = () => {
                 maybe a quarter-life crisis... but I genuinely felt the need to
                 take a step back in order to figure things out for myself. Yes
                 it wasn&apos;t easy but ultimately I decided to take a career
-                break. Then my life changed forever!
+                break. With the much needed space, my life changed forever!
               </p>
             </div>
           </div>
