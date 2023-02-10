@@ -86,21 +86,23 @@ const About = () => {
                 true!).
               </p>
               <p className='mt-9'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
-                ultricies lacus sed turpis. Egestas purus viverra accumsan in
-                nisl. Accumsan lacus vel facilisis volutpat est velit egestas.
-                Risus nullam eget felis eget nunc. Varius sit amet mattis
-                vulputate enim. Commodo ullamcorper a lacus vestibulum sed arcu.
-                Volutpat lacus laoreet non curabitur gravida arcu ac. Volutpat
-                ac tincidunt vitae semper. Aliquet porttitor lacus luctus
-                accumsan tortor posuere ac ut. Nibh tellus molestie nunc non
-                blandit massa enim nec. Aliquet porttitor lacus luctus accumsan
-                tortor. Ridiculus mus mauris vitae ultricies leo integer
-                malesuada nunc vel. Quis enim lobortis scelerisque fermentum dui
-                faucibus. Nibh nisl condimentum id venenatis a condimentum.
-                Imperdiet sed euismod nisi porta lorem mollis. Aliquam ultrices
-                sagittis orci a scelerisque.
+                I studied Electrical Engineering during my bachelor&apos;s
+                thinking that electricity in today&apos;s world is the basis for
+                almost every technology we are familiar with; so why not learn
+                more about it! While grinding in college I managed to work as an
+                intern for multiple companies and four years through the process
+                I learned that I was more into software than hardware, which was
+                a fair enough transition for me given how fast the tech world
+                was evolving. After securing a decent enough score, I ended up
+                grabbing a really nice job at an international IT Giant. I
+                learned a ton during the Initial Learning Program and also
+                enjoyed my time there as a corporate engineer. However, as fate
+                would have it, I started feeling that something was missing (and
+                many things in between)... Dunno what to call it exactly, maybe
+                quarter-life crisis, but I felt the need to take a step back in
+                order to figure things out for myself. Yes it wasn&apos;t easy
+                but ultimately I decided to take a career break. It gave me the
+                much needed space. Then my life changed forever!
               </p>
             </div>
           </div>
