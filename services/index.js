@@ -5,7 +5,7 @@ const graphqlAPI = process.env.NEXT_PUBLIC_GRAPHCMS_ENDPOINT;
 export const getProjects = async () => {
   const query = gql`
     query GetProjects {
-      projects {
+      projects(orderBy: createdAt_DESC) {
         description
         title
         tags {
