@@ -95,8 +95,8 @@ const About = () => {
                 score, I ended up getting a great job at an international IT
                 Giant. Learned a ton during the Initial Learning Program and
                 also enjoyed my time there as a corporate engineer. However, as
-                fate would have it, I started feeling that something was missing
-                (and many things in between). Dunno what to call it exactly,
+                fate would have it, I started feeling that something (and many
+                things in between) was missing. Dunno what to call it exactly,
                 maybe a quarter-life crisis... but I genuinely felt the need to
                 take a step back in order to figure things out for myself. Yes
                 it wasn&apos;t easy but ultimately I decided to take a career

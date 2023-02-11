@@ -56,7 +56,7 @@ const Home = () => {
                 </p>
                 <Link href='/email'>
                   <button className='transition duration-300 transform bg-blue-500 dark:bg-night-blue hover:bg-blue-900 dark:hover:bg-indigo-700 inline-block text-base md:text-xl lg:text-lg xl:text-xl font-medium rounded-full text-white dark:text-night-white px-3 py-1 mt-2 cursor-pointer'>
-                    Email Me!
+                    Email Me
                   </button>
                 </Link>
               </div>
