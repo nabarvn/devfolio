@@ -69,7 +69,7 @@ const About = () => {
           <div>
             <div className='text-base md:text-lg font-semibold justify-center md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14'>
               <h2 className='text-xl md:text-2xl xl:text-3xl'>/story</h2>
-              <p className='mt-9'>
+              <p className='mt-5'>
                 During my early childhood days, whenever I was asked about my
                 aim in life, for some reason my consistent response used to be
                 &quot;I aspire to become a Scientist&quot;. In retrospect, I
@@ -85,7 +85,7 @@ const About = () => {
                 making things, and partly because someone had told me that
                 engineers don&apos;t have to study as much (not true).
               </p>
-              <p className='mt-9'>
+              <p className='mt-5'>
                 I studied Electrical Engineering in my bachelor&apos;s thinking
                 that electricity is the basis for almost every technology we are
                 familiar with; so why not learn more about it! While grinding in
@@ -103,7 +103,7 @@ const About = () => {
                 it wasn&apos;t easy and ultimately, I decided to take a career
                 break. With the much needed space my life changed forever!
               </p>
-              <p className='mt-9'>
+              <p className='mt-5'>
                 The best thing that happened to me in 2019 was coding. I simply
                 fell in love with the notion of being able to translate ideas
                 into something really meaningful. With the little programming
@@ -122,7 +122,7 @@ const About = () => {
                 the relevant technologies from scratch while building some cool
                 projects along the way, one at a time.
               </p>
-              <p className='mt-9'>
+              <p className='mt-5'>
                 A major life lesson I learned was that developing web
                 applications and solving coding problems are two very different
                 things. To achieve both, we must make patience, consistency, and
