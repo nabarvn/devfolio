@@ -68,7 +68,7 @@ const About = () => {
           </div>
           <div>
             <div className='text-base md:text-lg font-semibold justify-center md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h2 className='text-xl md:text-2xl xl:text-3xl'>/story</h2>
+              <h3 className='text-xl md:text-2xl xl:text-3xl'>/story</h3>
               <p className='mt-5'>
                 During my early childhood days, whenever I was asked about my
                 aim in life, for some reason my consistent response used to be
