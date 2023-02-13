@@ -99,8 +99,27 @@ const About = () => {
                 things in between) was missing. Dunno what to call it exactly,
                 maybe a quarter-life crisis... but I genuinely felt the need to
                 take a step back in order to figure things out for myself. Yes
-                it wasn&apos;t easy but ultimately I decided to take a career
-                break. With the much needed space, my life changed forever!
+                it wasn&apos;t easy and ultimately, I decided to take a career
+                break. With the much needed space my life changed forever!
+              </p>
+              <p className='mt-9'>
+                The best thing that happened to me in 2019 was coding. I simply
+                fell in love with the notion of being able to translate ideas
+                into something really meaningful. With the little programming
+                knowledge that I had from high school and college, I decided to
+                jump right into it, only to find out the immense level of
+                efforts I&apos;d have to put in order to reach the next
+                checkpoint. From where I was standing, it looked like a huge
+                mountain to be climbed but I didn&apos;t fear because my
+                "motive" was even bigger! Using the first principles method, I
+                started my long journey with Data Structures and Algorithms
+                using C++. After building a stronger base, I moved on to
+                initiate the development part. And the best way I believed was
+                to learn JavaScript, language of the internet. Although I felt
+                overwhelmed quite often during this whole process, I
+                successfully managed to learn all the relevant technologies from
+                scratch while building some cool projects along the way, one at
+                a time.
               </p>
             </div>
           </div>
