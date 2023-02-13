@@ -66,8 +66,9 @@ const About = () => {
               />
             </div>
           </div>
-          <div className=''>
-            <div className='text-base md:text-lg font-semibold justify-center text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0'>
+          <div>
+            <div className='text-base md:text-lg font-semibold justify-center text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14'>
+              <h2 className='text-xl md:text-2xl xl:text-3xl'>/story</h2>
               <p className='mt-9'>
                 During my early childhood days, whenever I was asked about my
                 aim in life, for some reason my consistent response used to be
@@ -111,16 +112,23 @@ const About = () => {
                 efforts I&apos;d have to put in order to reach the next
                 checkpoint. From where I was standing, it looked like a huge
                 mountain to be climbed but I didn&apos;t fear because my
-                "motive" was even bigger! Using the first principles method, I
-                started my long journey with Data Structures and Algorithms
-                using C++. After building a stronger base, I moved on to
-                initiate the development part. And the best way I believed was
-                to learn JavaScript, language of the internet. Although I felt
-                overwhelmed quite often during this whole process, I
-                successfully managed to learn all the relevant technologies from
-                scratch while building some cool projects along the way, one at
-                a time.
+                &quot;motive&quot; was even bigger! Applying the first
+                principles method, I started my long journey with Data
+                Structures and Algorithms using C++. After building a stronger
+                base, I moved on to initiate the development part. And the best
+                way I believed was to learn JavaScript, language of the
+                internet. Although I felt overwhelmed quite often during this
+                whole process, I successfully managed to learn and still
+                learning all the relevant technologies from scratch while
+                building some cool projects along the way, one at a time.
               </p>
+              {/* <p className='mt-9'>
+                A major life lesson I learned was that developing web
+                applications and solving coding problems are two very different
+                things. To achieve both, we must make patience, consistency, and
+                resilience our best friends. Also, taking breaks every now and
+                then is equally important as coding, if not more.
+              </p> */}
             </div>
           </div>
           {/* <div className='flex flex-col text-2xl font-semibold items-center md:max-w-5xl md:p-9 md:pb-0'>
