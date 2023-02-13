@@ -1,21 +1,21 @@
 import Head from "next/head";
 import Image from "next/image";
-import {
-  SiTypescript,
-  SiJavascript,
-  SiReact,
-  SiNextdotjs,
-  SiTailwindcss,
-  SiBootstrap,
-  SiHtml5,
-  SiCss3,
-  SiMaterialui,
-  SiFirebase,
-  SiStyledcomponents,
-  SiStripe,
-  SiGraphql,
-  SiSass,
-} from "react-icons/si";
+// import {
+//   SiTypescript,
+//   SiJavascript,
+//   SiReact,
+//   SiNextdotjs,
+//   SiTailwindcss,
+//   SiBootstrap,
+//   SiHtml5,
+//   SiCss3,
+//   SiMaterialui,
+//   SiFirebase,
+//   SiStyledcomponents,
+//   SiStripe,
+//   SiGraphql,
+//   SiSass,
+// } from "react-icons/si";
 import { Navbar } from "../components";
 
 const About = () => {
@@ -115,20 +115,20 @@ const About = () => {
                 &quot;motive&quot; was even bigger! Applying the first
                 principles method, I started my long journey with Data
                 Structures and Algorithms using C++. After building a stronger
-                base, I moved on to initiate the development part. And the best
-                way I believed was to learn JavaScript, language of the
-                internet. Although I felt overwhelmed quite often during this
-                whole process, I successfully managed to learn and still
-                learning all the relevant technologies from scratch while
-                building some cool projects along the way, one at a time.
+                base, I moved on to initiate the development part. The best way
+                I believed was to learn JavaScript, language of the internet.
+                Although I felt overwhelmed quite often during this whole
+                process, I successfully managed to learn (still learning) all
+                the relevant technologies from scratch while building some cool
+                projects along the way, one at a time.
               </p>
-              {/* <p className='mt-9'>
+              <p className='mt-9'>
                 A major life lesson I learned was that developing web
                 applications and solving coding problems are two very different
                 things. To achieve both, we must make patience, consistency, and
                 resilience our best friends. Also, taking breaks every now and
                 then is equally important as coding, if not more.
-              </p> */}
+              </p>
             </div>
           </div>
           {/* <div className='flex flex-col text-2xl font-semibold items-center md:max-w-5xl md:p-9 md:pb-0'>
