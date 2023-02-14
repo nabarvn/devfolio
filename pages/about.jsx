@@ -162,7 +162,7 @@ const About = () => {
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
                   <a
-                    href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'
+                    href='https://developer.mozilla.org/en-us/docs/web/javascript'
                     target='_blank'
                   >
                     <SiJavascript className='fill-[#F0DB4F] dark:fill-slate-400 bg-[#323330] dark:bg-night-black h-10 w-10 md:h-20 md:w-20' />
@@ -321,25 +321,25 @@ const About = () => {
               >
                 <li>
                   I can speak five languages; 4 with professional proficiency
-                  and 1 as a beginner. 👌
+                  and 1 as a beginner.
                 </li>
                 <li className='mt-2'>
                   I was recognized amongst the Top 10 School Toppers who brought
                   laurels by securing a score of more than 90% in CBSE India
-                  Senior School Certificate Examination. 👨‍🎓
+                  Senior School Certificate Examination.
                 </li>
                 <li className='mt-2'>
                   I won Badminton Championship 2013 which was held for the
-                  freshmans in college. 🙋
+                  freshmans in college.
                 </li>
                 <li className='mt-2'>
                   I can play &quot;Nothing Else Matters&quot; intro by plucking
-                  strings on my acoustic guitar. 🎸
+                  strings on my acoustic guitar.
                 </li>
                 <li className='mt-2'>
                   I was awarded with a Certificate of Appreciation by my first
                   employer, for maintaining best professional practices at
-                  office. 👽
+                  office.
                 </li>
               </ul>
             </div>
