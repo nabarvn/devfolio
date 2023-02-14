@@ -1,22 +1,24 @@
 import Head from "next/head";
 import Image from "next/image";
-// import {
-//   SiTypescript,
-//   SiJavascript,
-//   SiReact,
-//   SiNextdotjs,
-//   SiTailwindcss,
-//   SiBootstrap,
-//   SiHtml5,
-//   SiCss3,
-//   SiMaterialui,
-//   SiFirebase,
-//   SiStyledcomponents,
-//   SiStripe,
-//   SiGraphql,
-//   SiSass,
-// } from "react-icons/si";
+
+import {
+  SiTypescript,
+  SiJavascript,
+  SiReact,
+  SiNextdotjs,
+  SiTailwindcss,
+  SiBootstrap,
+  SiHtml5,
+  SiCss3,
+  SiMaterialui,
+  SiFirebase,
+  SiStripe,
+  SiGraphql,
+  SiSass,
+} from "react-icons/si";
+
 import { Navbar } from "../components";
+import { Tooltip } from "react-tooltip";
 
 const About = () => {
   return (
@@ -152,77 +154,193 @@ const About = () => {
                 be really proud of me.
               </p>
             </div>
-          </div>
-          {/* <div className='flex flex-col text-2xl font-semibold items-center md:max-w-5xl md:p-9 md:pb-0'>
-            <h2 className='text-center mb-5'>Technologies I have used</h2>
-            <div className='flex flex-wrap max-w-xl justify-center'>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiTypescript className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiReact className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiJavascript className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiNextdotjs className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiTailwindcss className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiBootstrap className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiHtml5 className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiCss3 className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiMaterialui className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiFirebase className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiStripe className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiGraphql className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
-              </div>
-              <div className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'>
-                <a href='/' target='_blank'>
-                  <SiSass className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
-                </a>
+            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+              <h3 className='text-xl md:text-2xl xl:text-3xl'>/skillset</h3>
+              <div className='flex flex-wrap justify-center mt-5'>
+                <div
+                  id='javascript'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiJavascript className='fill-[#F0DB4F] dark:fill-slate-400 bg-[#323330] dark:bg-night-black h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip
+                  anchorId='javascript'
+                  content='JavaScript'
+                  place='bottom'
+                />
+
+                <div
+                  id='react'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiReact className='fill-[#61DBFB] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='react' content='React' place='bottom' />
+
+                <div
+                  id='typescript'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiTypescript className='fill-[#3178C6] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip
+                  anchorId='typescript'
+                  content='TypeScript'
+                  place='bottom'
+                />
+
+                <div
+                  id='nextjs'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiNextdotjs className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='nextjs' content='Next.js' place='bottom' />
+
+                <div
+                  id='tailwind'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiTailwindcss className='fill-[#38BDF8] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip
+                  anchorId='tailwind'
+                  content='Tailwind'
+                  place='bottom'
+                />
+
+                <div
+                  id='bootstrap'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiBootstrap className='fill-[#563D7C] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip
+                  anchorId='bootstrap'
+                  content='Bootstrap'
+                  place='bottom'
+                />
+
+                <div
+                  id='html'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiHtml5 className='fill-[#E44D26] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='html' content='HTML5' place='bottom' />
+
+                <div
+                  id='css'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiCss3 className='fill-[#264DE4] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='css' content='CSS3' place='bottom' />
+
+                <div
+                  id='mui'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiMaterialui className='fill-[#007FFF] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='mui' content='Material UI' place='bottom' />
+
+                <div
+                  id='firebase'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiFirebase className='fill-[#FFA611] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip
+                  anchorId='firebase'
+                  content='Firebase'
+                  place='bottom'
+                />
+
+                <div
+                  id='stripe'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiStripe className='fill-[#4379FF] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='stripe' content='Stripe' place='bottom' />
+
+                <div
+                  id='gql'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiGraphql className='fill-[#E535AB] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='gql' content='GraphQL' place='bottom' />
+
+                <div
+                  id='sass'
+                  className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
+                >
+                  <a href='/' target='_blank'>
+                    <SiSass className='fill-[#CD6799] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
+                  </a>
+                </div>
+                <Tooltip anchorId='sass' content='SASS' place='bottom' />
               </div>
             </div>
-          </div> */}
+            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+              <h3 className='text-xl md:text-2xl xl:text-3xl'>/facts</h3>
+              <ul
+                className='mt-5 ml-5'
+                style={{
+                  listStyleType: "square",
+                }}
+              >
+                <li>
+                  I can speak five languages; 4 with professional proficiency
+                  and 1 as a beginner. 👌
+                </li>
+                <li className='mt-2'>
+                  I was recognized amongst the Top 10 School Toppers who brought
+                  laurels by securing a score of more than 90% in CBSE India
+                  Senior School Certificate Examination. 👨‍🎓
+                </li>
+                <li className='mt-2'>
+                  I won Badminton Championship 2013 which was held for the
+                  freshmans in college. 🙋
+                </li>
+                <li className='mt-2'>
+                  I can play "Nothing Else Matters" intro by plucking strings on
+                  my acoustic guitar. 🎸
+                </li>
+                <li className='mt-2'>
+                  I was awarded with a Certificate of Appreciation by my first
+                  employer, for maintaining best professional practices at
+                  office. 👽
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
         <div className='col-span-1 md:col-span-2 hidden md:contents'>
           <div className='flex flex-col md:col-start-11 md:col-end-13'>
