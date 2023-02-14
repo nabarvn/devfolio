@@ -161,7 +161,10 @@ const About = () => {
                   id='javascript'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a
+                    href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'
+                    target='_blank'
+                  >
                     <SiJavascript className='fill-[#F0DB4F] dark:fill-slate-400 bg-[#323330] dark:bg-night-black h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -175,7 +178,7 @@ const About = () => {
                   id='react'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://reactjs.org' target='_blank'>
                     <SiReact className='fill-[#61DBFB] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -185,7 +188,7 @@ const About = () => {
                   id='typescript'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://www.typescriptlang.org' target='_blank'>
                     <SiTypescript className='fill-[#3178C6] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -199,7 +202,7 @@ const About = () => {
                   id='nextjs'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://nextjs.org' target='_blank'>
                     <SiNextdotjs className='dark:text-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -209,7 +212,7 @@ const About = () => {
                   id='tailwind'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://tailwindcss.com' target='_blank'>
                     <SiTailwindcss className='fill-[#38BDF8] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -223,7 +226,7 @@ const About = () => {
                   id='bootstrap'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://getbootstrap.com' target='_blank'>
                     <SiBootstrap className='fill-[#563D7C] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -237,7 +240,7 @@ const About = () => {
                   id='html'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://html.com/html5' target='_blank'>
                     <SiHtml5 className='fill-[#E44D26] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -247,7 +250,7 @@ const About = () => {
                   id='css'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://www.w3schools.com/css' target='_blank'>
                     <SiCss3 className='fill-[#264DE4] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -257,7 +260,7 @@ const About = () => {
                   id='mui'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://mui.com' target='_blank'>
                     <SiMaterialui className='fill-[#007FFF] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -267,7 +270,7 @@ const About = () => {
                   id='firebase'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://firebase.google.com' target='_blank'>
                     <SiFirebase className='fill-[#FFA611] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -281,7 +284,7 @@ const About = () => {
                   id='stripe'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://stripe.com/docs/development' target='_blank'>
                     <SiStripe className='fill-[#4379FF] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -291,7 +294,7 @@ const About = () => {
                   id='gql'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://graphql.org' target='_blank'>
                     <SiGraphql className='fill-[#E535AB] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
@@ -301,7 +304,7 @@ const About = () => {
                   id='sass'
                   className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2 m-2'
                 >
-                  <a href='/' target='_blank'>
+                  <a href='https://sass-lang.com' target='_blank'>
                     <SiSass className='fill-[#CD6799] dark:fill-slate-400 h-10 w-10 md:h-20 md:w-20' />
                   </a>
                 </div>
