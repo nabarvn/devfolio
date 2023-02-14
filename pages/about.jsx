@@ -148,7 +148,8 @@ const About = () => {
                 the metaverse. Currently, I&apos;m working on taking my web2
                 coding skills to the next level and learn blockchain development
                 which will help me explore my fascination with DApps in a much
-                better way.
+                better way. Hopefully, one day my mom would be really proud of
+                me.
               </p>
             </div>
           </div>
