@@ -21,7 +21,7 @@ const About = () => {
                 An engineer who loves to code, travel, and meet buidlers across
                 the globe.
               </h1>
-              <div className='mt-9 text-base md:text-lg font-semibold text-center'>
+              <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold text-center mt-9'>
                 <p className='lg:hidden'>
                   Howdy! My name is Nabarun (call me Nick if you&apos;d like)
                   and I&apos;m a Software Developer currently based in India. I
@@ -51,7 +51,7 @@ const About = () => {
             </div>
           </div>
           <div>
-            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+            <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
               <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /story
               </h3>
@@ -117,7 +117,7 @@ const About = () => {
               </p> */}
             </div>
 
-            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+            <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
               <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /today
               </h3>
@@ -144,7 +144,7 @@ const About = () => {
 
             <Skillset />
 
-            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+            <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
               <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /facts
               </h3>
