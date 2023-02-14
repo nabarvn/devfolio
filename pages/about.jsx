@@ -52,7 +52,7 @@ const About = () => {
           </div>
           <div>
             <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-teal-700 dark:text-night-teal text-xl md:text-2xl xl:text-3xl'>
+              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /story
               </h3>
               <p className='mt-5'>
@@ -118,7 +118,7 @@ const About = () => {
             </div>
 
             <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-teal-700 dark:text-night-teal text-xl md:text-2xl xl:text-3xl'>
+              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /today
               </h3>
               <p className='mt-5'>
@@ -145,7 +145,7 @@ const About = () => {
             <Skillset />
 
             <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-teal-700 dark:text-night-teal text-xl md:text-2xl xl:text-3xl'>
+              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
                 /facts
               </h3>
               <ul
