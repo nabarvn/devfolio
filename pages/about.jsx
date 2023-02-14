@@ -141,7 +141,7 @@ const About = () => {
                 came across NFTs for the first time in early 2021, somehow it
                 was super evident to me from day one itself, that non-fungible
                 tokens are going to shape the future of our online worlds.
-                Eventually, almost everything in the digital space is going to
+                Gradually, almost everything in the digital space is going to
                 get tokenized. Thinking about the future of web3 as a whole
                 (including DeFi, social protocols, audio tokens etc.) makes me
                 super excited and now I want to be a significant contributor in
