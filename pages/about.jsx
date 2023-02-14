@@ -330,8 +330,8 @@ const About = () => {
                   freshmans in college. 🙋
                 </li>
                 <li className='mt-2'>
-                  I can play "Nothing Else Matters" intro by plucking strings on
-                  my acoustic guitar. 🎸
+                  I can play &quot;Nothing Else Matters&quot; intro by plucking
+                  strings on my acoustic guitar. 🎸
                 </li>
                 <li className='mt-2'>
                   I was awarded with a Certificate of Appreciation by my first
