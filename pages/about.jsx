@@ -31,7 +31,7 @@ const About = () => {
 
       <div className='grid grid-cols-1 md:grid-cols-12'>
         <div className='col-span-1 md:col-span-10'>
-          <div className='flex flex-col lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between pt-4 xl:pt-5 md:px-4 lg:px-5 xl:px-9'>
+          <div className='flex flex-col lg:flex-row md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:justify-between cursor-default pt-4 xl:pt-5 md:px-4 lg:px-5 xl:px-9'>
             <div className='flex flex-col mx-auto md:max-w-lg lg:max-w-sm xl:max-w-lg order-2 lg:order-1 mt-9 lg:mt-0'>
               <h1 className='text-2xl md:text-4xl xl:text-5xl font-bold text-center text-purple-700 dark:text-yellow-300'>
                 An engineer who loves to code, travel, and meet buidlers across
@@ -67,7 +67,7 @@ const About = () => {
             </div>
           </div>
           <div>
-            <div className='text-base md:text-lg font-semibold justify-center md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
               <h3 className='text-xl md:text-2xl xl:text-3xl'>/story</h3>
               <p className='mt-5'>
                 During my early childhood days, whenever I was asked about my
@@ -122,12 +122,33 @@ const About = () => {
                 the relevant technologies from scratch while building some cool
                 projects along the way, one at a time.
               </p>
-              <p className='mt-5'>
+              {/* <p className='mt-5'>
                 A major life lesson I learned was that developing web
                 applications and solving coding problems are two very different
                 things. To achieve both, we must make patience, consistency, and
                 resilience our best friends. Also, taking breaks every now and
                 then is equally important as coding, if not more.
+              </p> */}
+            </div>
+            <div className='text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
+              <h3 className='text-xl md:text-2xl xl:text-3xl'>/today</h3>
+              <p className='mt-5'>
+                I&apos;m super comfortable with learning things on the internet
+                as I&apos;ve been in the self-taught journey for a few years
+                now. I take keen interest in learning cutting-edge technologies
+                in the hopes that these will one day have a direct impact on our
+                lives and Blockchain is definitely one such innovation. When I
+                came across NFTs for the first time in early 2021, somehow it
+                was super evident to me from day one itself, that non-fungible
+                tokens are going to shape the future of our online worlds.
+                Eventually, almost everything in the digital space is going to
+                get tokenized. Thinking about the future of web3 as a whole
+                (including DeFi, social protocols, audio tokens etc.) makes me
+                super excited and now I want to be a significant contributor in
+                the metaverse. Currently, I&apos;m working on taking my web2
+                coding skills to the next level and learn blockchain development
+                which will help me explore my fascination with DApps in a much
+                better way.
               </p>
             </div>
           </div>
