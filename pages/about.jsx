@@ -142,7 +142,7 @@ const About = () => {
                 was super evident to me from day one itself, that non-fungible
                 tokens are going to shape the future of our online worlds.
                 Gradually, almost everything in the digital space is going to
-                get tokenized. Thinking about the future of web3 as a whole
+                get tokenized. Thinking about the potential of web3 as a whole
                 (including DeFi, social protocols, audio tokens etc.) makes me
                 super excited and now I want to be a significant contributor in
                 the metaverse. Currently, I&apos;m working on taking my web2
