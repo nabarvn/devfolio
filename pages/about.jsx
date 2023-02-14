@@ -146,10 +146,10 @@ const About = () => {
                 (including DeFi, social protocols, audio tokens etc.) makes me
                 super excited and now I want to be a significant contributor in
                 the metaverse. Currently, I&apos;m working on taking my web2
-                coding skills to the next level and learn blockchain development
-                which will help me explore my fascination with DApps in a much
-                better way. Hopefully, one day my mom would be really proud of
-                me.
+                coding skills to the next level and learning blockchain
+                development is the way to go; will help explore my fascination
+                with DApps in a much better way. Hopefully, one day my mom would
+                be really proud of me.
               </p>
             </div>
           </div>
