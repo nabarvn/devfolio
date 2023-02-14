@@ -144,7 +144,7 @@ const About = () => {
                 Gradually, almost everything in the digital space is going to
                 get tokenized. Thinking about the potential of web3 as a whole
                 (including DeFi, social protocols, audio tokens etc.) makes me
-                super excited and now I want to be a significant contributor in
+                really excited and now I want to be a significant contributor in
                 the metaverse. Currently, I&apos;m working on taking my web2
                 coding skills to the next level and learning blockchain
                 development is the way to go; will help explore my fascination
