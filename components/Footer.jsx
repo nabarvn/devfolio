@@ -5,7 +5,7 @@ import { Tooltip } from "react-tooltip";
 const Footer = () => {
   return (
     <footer className='container flex flex-col mx-auto items-center justify-center bottom-0 px-9 mt-32 pb-9 bg-light-gray dark:bg-night-black'>
-      <div className='flex mb-5'>
+      <div className='flex mb-3'>
         <div
           id='twitter-logo'
           className='cursor-pointer bg-light-gray dark:bg-night-black hover:bg-gray-100 dark:hover:bg-night-gray transition duration-300 rounded-lg p-1.5 md:p-2'
@@ -47,16 +47,26 @@ const Footer = () => {
         <Tooltip anchorId='github-logo' content='Github' place='top' />
         <Tooltip anchorId='linkedin-logo' content='Linkedin' place='top' />
       </div>
-      <div>
-        <span className='cursor-default'>An </span>
+      <div className='p-1'>
+        <span className='cursor-default'>❤️ </span>
         <Link
           href='https://github.com/nabarvn/devfolio'
           className='hover:text-blue-500 dark:hover:text-indigo-400'
           target='_blank'
         >
-          Open Source
+          Open Source Project
         </Link>
-        <span className='cursor-default'> Project ❤️</span>
+        <span className='cursor-default'> ❤️</span>
+      </div>
+      <div className='p-1'>
+        <span className='cursor-default'>Built and Powered by </span>
+        <Link
+          href='https://app.ens.domains/name/nabarun.eth/details'
+          className='hover:text-blue-500 dark:hover:text-indigo-400'
+          target='_blank'
+        >
+          Nabarun.eth
+        </Link>
       </div>
     </footer>
   );
