@@ -127,17 +127,17 @@ const About = () => {
                 now. I take keen interest in learning cutting-edge technologies
                 in the hopes that these will one day have a direct impact on our
                 lives and Blockchain is definitely one such innovation. When I
-                came across NFTs for the first time in early 2021, somehow it
-                was super evident to me from day one itself, that non-fungible
-                tokens are going to shape the future of our online worlds.
-                Gradually, almost everything in the digital space is going to
-                get tokenized. Thinking about the potential of web3 as a whole
-                (including DeFi, social protocols, audio tokens etc.) makes me
-                really excited and now I want to be a significant contributor in
-                the metaverse. Currently, I&apos;m working on taking my web2
-                coding skills to the next level and learning blockchain
-                development is the way to go; will help explore my fascination
-                with DApps in a much better way. Hopefully, Maa would be really
+                came across NFTs for the first time in early 2021, it was kinda
+                evident to me from day one itself, that non-fungible tokens are
+                going to shape the future of our online worlds. Gradually,
+                almost everything in the digital space is going to get
+                tokenized. Thinking about the potential of web3 (including DeFi,
+                social protocols, audio tokens etc.) makes me really excited and
+                now I want to be a significant contributor in the metaverse.
+                Currently, I&apos;m working on taking my web2 coding skills to
+                the next level and for me learning blockchain development
+                (Solidity) is the way to go; will help explore my fascination
+                with dApps in a much better way. Hopefully, Maa would be really
                 proud of me someday.
               </p>
             </div>
