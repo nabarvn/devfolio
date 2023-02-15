@@ -122,12 +122,12 @@ const About = () => {
                 /today
               </h3>
               <p className='mt-5'>
-                I&apos;m super comfortable with learning things on the internet
-                as I&apos;ve been in the self-taught journey for a few years
-                now. I take keen interest in learning cutting-edge technologies
-                in the hopes that these will one day have a direct impact on our
-                lives and Blockchain is definitely one such innovation. When I
-                came across NFTs for the first time in early 2021, it was kinda
+                I&apos;m super comfortable with upskilling on the internet as
+                I&apos;ve been in the self-taught journey for a few years now. I
+                take keen interest in learning cutting-edge technologies in the
+                hopes that these will one day have a direct impact on our lives
+                and Blockchain is definitely one such innovation. When I came
+                across NFTs for the first time in early 2021, it was kinda
                 evident to me from day one itself, that non-fungible tokens are
                 going to shape the future of our online worlds. Gradually,
                 almost everything in the digital space is going to get
@@ -135,10 +135,10 @@ const About = () => {
                 social protocols, audio tokens etc.) makes me really excited and
                 now I want to be a significant contributor in the metaverse.
                 Currently, I&apos;m working on taking my web2 coding skills to
-                the next level and for me learning blockchain development
-                (Solidity) is the way to go; will help explore my fascination
-                with dApps in a much better way. Hopefully, Maa would be really
-                proud of me someday.
+                the next level and for me learning blockchain development (using
+                Solidity) is the way to go; it&apos;ll help explore my
+                fascination with dApps in a much better way. Hopefully, Maa
+                would be really proud of me someday.
               </p>
             </div>
 
