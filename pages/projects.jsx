@@ -9,7 +9,7 @@ const Projects = ({ projects }) => {
       className='container mx-auto mb-auto px-10 lg:px-0 xl:px-10'
     >
       <Head>
-        <title>Nabarun</title>
+        <title>Nabarun.eth</title>
         <link rel='icon' href='/nabarun.png' />
       </Head>
 

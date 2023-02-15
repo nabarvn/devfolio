@@ -8,7 +8,7 @@ const Email = () => {
       className='container mx-auto mb-auto justify-center items-center min-h-screen px-10 lg:px-0 xl:px-10'
     >
       <Head>
-        <title>Nabarun</title>
+        <title>Nabarun.eth</title>
         <link rel='icon' href='/nabarun.png' />
       </Head>
 
