@@ -11,7 +11,7 @@ const Home = () => {
       className='container mx-auto mb-auto px-10 lg:px-0 xl:px-10 h-screen'
     >
       <Head>
-        <title>Nabarun.eth</title>
+        <title>Nabarun</title>
         <link rel='icon' href='/nabarun.png' />
       </Head>
       <div className='grid grid-cols-1 md:grid-cols-12'>

@@ -9,7 +9,7 @@ const About = () => {
       className='container mx-auto mb-auto px-10 lg:px-0 xl:px-10'
     >
       <Head>
-        <title>Nabarun.eth</title>
+        <title>Nabarun</title>
         <link rel='icon' href='/nabarun.png' />
       </Head>
 

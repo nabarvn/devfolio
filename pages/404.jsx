@@ -8,7 +8,7 @@ const ErrorPage = () => {
       className='flex flex-col m-auto justify-center items-center error-content lg:px-0 xl:px-10'
     >
       <Head>
-        <title>Nabarun.eth</title>
+        <title>Nabarun</title>
         <link rel='icon' href='/nabarun.png' />
       </Head>
       <div className='text-2xl mb-8'>You seem lost, fren.</div>
