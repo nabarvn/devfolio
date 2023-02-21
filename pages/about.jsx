@@ -146,7 +146,7 @@ const About = () => {
 
             <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
               <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
-                /facts
+                /random
               </h3>
               <ul
                 className='mt-5 ml-5'
