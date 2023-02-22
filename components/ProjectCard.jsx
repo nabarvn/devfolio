@@ -9,7 +9,7 @@ const ProjectCard = ({ project }) => {
           {project.title}
         </h1>
 
-        <p className='cursor-pointer text-justify text-base text-gray-700 dark:text-gray-300 font-normal mb-8'>
+        <p className='cursor-pointer lg:text-justify text-base text-gray-700 dark:text-gray-300 font-normal mb-8'>
           {project.description}
         </p>
       </Link>
