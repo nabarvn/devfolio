@@ -52,9 +52,14 @@ const About = () => {
           </div>
           <div>
             <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
-                /story
-              </h3>
+              <div className='lg:flex group'>
+                <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
+                  /story
+                </h3>
+                <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 md:mt-1.5 lg:mt-1 lg:ml-5'>
+                  (incase you&apos;re interested to learn about my how and why)
+                </span>
+              </div>
               <p className='mt-5'>
                 During my early childhood days, whenever I was asked about my
                 aim in life, for some reason my consistent response used to be
@@ -64,12 +69,12 @@ const About = () => {
                 growing up, my pool of interests had begun to take a better
                 shape. Eventually, I discovered the inner engineer between
                 building small objects and dismantling my toy cars in order to
-                find out what was under the hood. And it was precisely this
-                memory that really helped me understand certain things when it
-                came to selecting a career path. As you can probably tell, I
-                chose to pursue engineering. Partly because I loved breaking and
-                making things, and partly because someone had told me that
-                engineers don&apos;t have to study as much (not true).
+                find out what was under the hood. It was precisely this memory
+                that really helped me understand certain things when it came to
+                selecting a career path. As you can probably tell, I chose to
+                pursue engineering. Partly because I loved breaking and making
+                things, and partly because someone had told me that engineers
+                don&apos;t have to study as much (not true).
               </p>
               <p className='mt-5'>
                 I studied Electrical Engineering in my bachelor&apos;s thinking
@@ -118,9 +123,14 @@ const About = () => {
             </div>
 
             <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
-                /today
-              </h3>
+              <div className='lg:flex group'>
+                <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
+                  /today
+                </h3>
+                <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 md:mt-1.5 lg:mt-1 lg:ml-5'>
+                  (what I&apos;m doing now)
+                </span>
+              </div>
               <p className='mt-5'>
                 I&apos;m super comfortable with upskilling on the internet as
                 I&apos;ve been in the self-taught journey for a few years now. I
@@ -135,7 +145,7 @@ const About = () => {
                 social protocols, audio tokens etc.) makes me really excited and
                 now I want to be a significant contributor in the metaverse.
                 Currently, I&apos;m working on taking my web2 coding skills to
-                the next level and for me learning blockchain development (using
+                the next level and for me learning blockchain engineering (using
                 Solidity) is the way to go; it&apos;ll help explore my
                 fascination with dApps in a much better way. Hopefully, Maa
                 would be really proud of me someday.
@@ -145,9 +155,14 @@ const About = () => {
             <Skillset />
 
             <div className='text-night-gray dark:text-gray-300 text-base md:text-lg font-semibold justify-center cursor-default md:text-justify md:max-w-5xl lg:max-w-4xl xl:max-w-5xl md:px-4 lg:px-5 xl:px-9 pb-0 mt-14 md:mt-11'>
-              <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
-                /random
-              </h3>
+              <div className='lg:flex group'>
+                <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
+                  /random
+                </h3>
+                <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 md:mt-1.5 lg:mt-1 lg:ml-5'>
+                  (some fun facts and some not so much)
+                </span>
+              </div>
               <ul
                 className='mt-5 ml-5'
                 style={{
@@ -164,8 +179,8 @@ const About = () => {
                   Senior School Certificate Examination.
                 </li>
                 <li className='mt-2'>
-                  I won Badminton Championship 2013 which was held for the
-                  freshmans in college.
+                  I won a Badminton Championship in 2013 which was held for the
+                  college freshmen.
                 </li>
                 <li className='mt-2'>
                   I can play &quot;Nothing Else Matters&quot; intro by plucking
@@ -174,7 +189,7 @@ const About = () => {
                 <li className='mt-2'>
                   I was awarded with a Certificate of Appreciation by my first
                   employer, for maintaining best professional practices at
-                  office.
+                  office. Had to include this point.
                 </li>
               </ul>
             </div>

@@ -47,7 +47,7 @@ const Home = () => {
                 </span>
                 <p className='text-base md:text-xl lg:text-lg xl:text-xl text-night-gray dark:text-gray-300 mb-3 md:mb-5'>
                   Welcome to my home on the internet. I&apos;m a self-taught
-                  software developer from India who is super enthusiastic about
+                  software developer from India who is super passionate about
                   building interesting things for the digital world. IMHO,
                   working with <span className='lg:hidden'>new and </span>
                   innovative tech is the only way through this exponential era.
