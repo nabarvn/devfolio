@@ -23,7 +23,7 @@ const Skillset = () => {
         <h3 className='text-orange-500 dark:text-orange-300 text-xl md:text-2xl xl:text-3xl'>
           /stack
         </h3>
-        <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 md:mt-1.5 lg:mt-1 lg:ml-5'>
+        <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 lg:ml-5'>
           (technologies I&apos;ve played with)
         </span>
       </div>
