@@ -26,7 +26,7 @@ const Projects = ({ projects }) => {
                 fullest potential while learning something new. Implementation
                 of knowledge is what makes us who we want to become, slowly but
                 steadily. And consistency is the key to all of it! Well, these
-                are some noteworthy builds developed by me till date, as I
+                are some noteworthy builds developed by me to date, as I
                 progressed during my journey in Software Engineering.
               </p>
             </div>

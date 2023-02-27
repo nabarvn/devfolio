@@ -77,9 +77,9 @@ const About = () => {
                 don&apos;t have to study as much (not true).
               </p>
               <p className='mt-5'>
-                I studied Electrical Engineering in my bachelor&apos;s thinking
+                I studied Electrical Engineering for my bachelor&apos;s thinking
                 that electricity is the basis for almost every technology we are
-                familiar with; so why not learn more about it! While grinding in
+                familiar with; so why not learn more about it? While grinding in
                 college I managed to work as an intern for multiple firms and 4
                 years through the process I learned that software was my thing,
                 not hardware; which was a fair enough transition for me given
@@ -90,28 +90,28 @@ const About = () => {
                 fate would have it, I started feeling that something (and many
                 things in between) was missing. Dunno what to call it exactly,
                 maybe a quarter-life crisis... but I genuinely felt the need to
-                take a step back in order to figure things out for myself. Yes
+                take a step back in order to figure things out for myself. Yes,
                 it wasn&apos;t easy and ultimately, I decided to take a career
-                break. With the much needed space my life changed forever!
+                break. With the much-needed space, my life changed forever!
               </p>
               <p className='mt-5'>
                 The best thing that happened to me in 2019 was coding. I simply
                 fell in love with the notion of being able to translate ideas
                 into something really meaningful. With the little programming
                 knowledge that I had from high school and college, I decided to
-                jump right into it, only to find out the immense level of
-                efforts I&apos;d have to put in order to reach the next
-                checkpoint. From where I was standing, it looked like a huge
-                mountain to be climbed but I didn&apos;t fear because my
-                &quot;motive&quot; was even bigger! Applying the first
-                principles method, I started my long journey with Data
-                Structures and Algorithms using C++. After building a stronger
-                base, I moved on to initiate the development part. The best way
-                I believed was to learn JavaScript, language of the internet.
-                Although I felt overwhelmed quite often during this whole
-                process, I successfully managed to learn (still learning) all
-                the relevant technologies from scratch while building some cool
-                projects along the way, one at a time.
+                jump right into it, only to find out the immense level of effort
+                I&apos;d have to put in order to reach the next checkpoint. From
+                where I was standing, it looked like a huge mountain to be
+                climbed but I didn&apos;t fear because my &quot;motive&quot; was
+                even bigger! Applying the first principles method, I started my
+                long journey with Data Structures and Algorithms using C++.
+                After building a stronger base, I moved on to initiate the
+                development part. The best way I believed was to learn
+                JavaScript, the language of the internet. Although I felt
+                overwhelmed quite often during this whole process, I
+                successfully managed to learn (still learning) all the relevant
+                technologies from scratch while building some cool projects
+                along the way, one at a time.
               </p>
               {/* <p className='mt-5'>
                 A major life lesson I learned was that developing web
@@ -133,20 +133,20 @@ const About = () => {
               </div>
               <p className='mt-5'>
                 I&apos;m super comfortable with upskilling on the internet as
-                I&apos;ve been in the self-taught journey for a few years now. I
-                take keen interest in learning cutting-edge technologies in the
-                hopes that these will one day have a direct impact on our lives
-                and Blockchain is definitely one such innovation. When I came
-                across NFTs for the first time in early 2021, it was kinda
-                evident to me from day one itself, that non-fungible tokens are
-                going to shape the future of our online worlds. Gradually,
-                almost everything in the digital space is going to get
-                tokenized. Thinking about the potential of web3 (including DeFi,
-                social protocols, audio tokens etc.) makes me really excited and
-                now I want to be a significant contributor in the metaverse.
+                I&apos;ve been on the self-taught journey for a few years now. I
+                take a keen interest in learning cutting-edge technologies in
+                the hopes that these will one day have a direct impact on our
+                lives and Blockchain is definitely one such innovation. When I
+                came across NFTs for the first time in early 2021, it was kinda
+                evident to me from day one, that non-fungible tokens are going
+                to shape the future of our online worlds. Gradually, almost
+                everything in the digital space is going to get tokenized.
+                Thinking about the potential of web3 (including DeFi, social
+                protocols, audio tokens, etc.) makes me really excited and now I
+                want to be a significant contributor to the metaverse.
                 Currently, I&apos;m working on taking my web2 coding skills to
-                the next level and for me learning blockchain engineering (using
-                Solidity) is the way to go; it&apos;ll help explore my
+                the next level, and for me learning blockchain engineering
+                (using Solidity) is the way to go; it&apos;ll help explore my
                 fascination with dApps in a much better way. Hopefully, Maa
                 would be really proud of me someday.
               </p>
@@ -174,21 +174,21 @@ const About = () => {
                   and 1 as a beginner.
                 </li>
                 <li className='mt-2'>
-                  I was recognized amongst the Top 10 School Toppers who brought
-                  laurels by securing a score of more than 90% in CBSE India
+                  I was recognized among the Top 10 School Toppers who brought
+                  laurels by securing a score of more than 90% in the CBSE India
                   Senior School Certificate Examination.
                 </li>
                 <li className='mt-2'>
-                  I won a Badminton Championship in 2013 which was held for the
+                  I won a Badminton Championship in 2013 which was held for
                   college freshmen.
                 </li>
                 <li className='mt-2'>
-                  I can play &quot;Nothing Else Matters&quot; intro by plucking
-                  strings on my acoustic guitar.
+                  I can play the &quot;Nothing Else Matters&quot; intro by
+                  plucking strings on my acoustic guitar.
                 </li>
                 <li className='mt-2'>
-                  I was awarded with a Certificate of Appreciation by my first
-                  employer, for maintaining best professional practices at
+                  I was awarded a Certificate of Appreciation by my first
+                  employer, for maintaining best professional practices at the
                   office. Had to include this point.
                 </li>
               </ul>
