@@ -57,7 +57,7 @@ const About = () => {
                   /story
                 </h3>
                 <span className='self-center lg:opacity-0 group-hover:opacity-100 transition duration-300 text-orange-500 dark:text-orange-300 text-sm lg:text-base mt-1 lg:mt-0 xl:mt-1 lg:ml-5'>
-                  (incase you&apos;re interested to learn about my how and why)
+                  (in case you&apos;re interested to learn about my how and why)
                 </span>
               </div>
               <p className='mt-5'>
