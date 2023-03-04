@@ -30,7 +30,7 @@ const About = () => {
                   DAOpunks.
                 </p>
                 <p className='hidden lg:contents'>
-                  Howdy! My name is Nabarun (call me Nick if you&apos;d like)
+                  Howdy! My name is Nabarun (call me Nick if you&apos;d like),
                   and I&apos;m a Software Developer currently based in India. I
                   love being an autodidact as it enables my curious mind to
                   thrive. I&apos;m Dev #369 at Developer DAO and a member of
