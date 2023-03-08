@@ -43,11 +43,4 @@ const Email = () => {
   );
 };
 
-export const getStaticProps = async () => {
-  return {
-    props: {},
-    revalidate: 9,
-  };
-};
-
 export default Email;
