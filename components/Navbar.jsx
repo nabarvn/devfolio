@@ -13,7 +13,7 @@ const Navbar = () => {
       </div>
       <div className='text-lg md:text-end font-semibold transition duration-300 mb-3'>
         <Link
-          href='https://blogdex.vercel.app/'
+          href='https://blog.nabarun.xyz'
           className='hover:text-blue-500 dark:hover:text-indigo-500 transition duration-300'
           target='_blank'
         >
